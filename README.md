@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Languages: Python, C/C++, C#, Java, PHP, JavaScript<br>🙋‍♂️ Currently 20 years old<br>📫 How to reach me: dramexlopez@gmail.com<br>🤝 I’m looking for help with sharpening my skills in modern web development frameworks and frontend technologies to stay updated with best practices.<br>💬 Ask me about backend development, desktop applications and competitive programming.<br>📚 I love listening to music and enjoy watching YouTube and TikToks, often picking up random tech tips along the way.
+💻 Programming Languages: Python, C/C++, C#, Java and more.<br>🙋‍♂️ Currently 20 years old<br>📫 How to reach me: dramexlopez@gmail.com<br>🌍 Spoken Languages: English and Spanish<br>💬 Ask me about backend development, desktop applications and competitive programming.<br>📚 I love listening to music and enjoy watching YouTube and TikToks, often picking up random tech tips along the way.
 
 
 ## 🌐 Socials:
